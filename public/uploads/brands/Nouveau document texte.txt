@@ -1,0 +1,1 @@
+"jeroennoten/laravel-adminlte": "^3.13",
